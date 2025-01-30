@@ -1,0 +1,12 @@
+{
+  "description": "Web Developer Portfolio",
+  "repo": "https://github.com/WiusGH/portfolio",
+  "owner": {
+    "username": "WiusGH",
+    "email": "wius93@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/wius/",
+  },
+  "record": {
+    "CNAME": "portfolio-psi-nine-67.vercel.app"
+  }
+}
